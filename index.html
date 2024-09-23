@@ -1,108 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Friends, lovers and the big terrible thing | 前言</title>
-    <link rel="icon" href="https://p6.itc.cn/q_70/images03/20210301/ea0756f7b0184ba1bb8d5072e0781c67.png" sizes="16x16">
-    <style>
-        :root {
-            --black: #000;
-            --white: #fff;
-            --gray: #666;
-            --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            --font-secondary: 'Times New Roman', serif;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Friends,lovers and the big terrible thing|前言</title>
+<link rel="icon"
+href="https://p6.itc.cn/q_70/images03/20210301/ea0756f7b0184ba1bb8d5072e0781c67.png" sizes="16x16">
+<style>
+  :root {
+    --black: #000;
+    --white: #fff;
+    --gray: #666;
+    --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-secondary: 'Times New Roman', serif;
+  }
 
-        body {
-            font-family: var(--font-primary);
-            color: var(--gray);
-            background: var(--white);
-            margin: 0;
-            padding: 0;
-        }
+  body {
+    font-family: var(--font-primary);
+    color: var(--gray);
+    background: var(--white);
+    margin: 0;
+    padding: 0;
+  }
 
-        h1 {
-            text-align: center;
-            font-size: 4vw;
-            font-family: var(--font-secondary);
-            color: var(--black);
-            margin: 2vw 0;
-        }
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    font-family: var(--font-secondary);
+    color: var(--black);
+    margin: 20px 0; /* 添加上下边距 */
+  }
 
-        p {
-            font-size: 2.5vw;
-            text-align: justify;
-            line-height: 1.9;
-            letter-spacing: 0.25vw;
-            margin-bottom: 3vw;
-            padding: 1vw 2vw;
-        }
+  p {
+    font-size: 17px;
+    text-align: justify;
+    line-height: 1.9;
+    letter-spacing: 1px;
+    margin-bottom: 20px; /* 添加底部边距 */
+    padding: 0 20px; /* 添加左右填充 */
+  }
 
-        .tooltip {
-            position: relative;
-            display: inline-block;
-            cursor: help;
-            border-bottom: 1px dashed var(--black);
-        }
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: help;
+    border-bottom: 1px dashed var(--black);
+  }
 
-        .tooltip .tooltiptext {
-            visibility: hidden;
-            width: 200px;
-            background-color: var(--black);
-            color: var(--white);
-            text-align: left;
-            padding: 10px;
-            border-radius: 6px;
-            position: absolute;
-            z-index: 1;
-            bottom: 100%;
-            left: 50%;
-            margin-left: -100px;
-            opacity: 0;
-            transition: opacity 0.3s;
-            font-size: 1.5vw;
-            letter-spacing: 0.25vw;
-            line-height: 1.5;
-        }
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    background-color: var(--black);
+    color: var(--white);
+    text-align: left;
+    padding: 10px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 1.9;
+  }
 
-        .tooltip:hover .tooltiptext {
-            visibility: visible;
-            opacity: 1;
-        }
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
 
-        /* 添加整个页面的边框留白 */
-        .container {
-            width: 80%;
-            margin-left: auto;
-            margin-right: auto;
-            padding: 0 20px; /* 增加左右填充，使两侧留白更加均衡 */
-            box-sizing: border-box; /* 确保padding不会增加容器的总宽度 */
-        }
+  /* 添加整个页面的边框留白 */
+  .container {
+    width: 80%;
+    margin: auto;
+    padding:30px;
+  }
 
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 5vw;
-                margin: 3vw 0;
-            }
-
-            p {
-                font-size: 3vw;
-                letter-spacing: 0.2vw;
-                margin-bottom: 5vw;
-                padding: 2vw;
-            }
-
-            .tooltip .tooltiptext {
-                font-size: 2vw;
-                width: 60vw;
-                white-space: nowrap;
-            }
-        }
-    </style>
+  .icon-image {
+    width: 24px;  /* 根据需要调整图标大小 */
+    height: 24px;
+  }
+</style>
 </head>
 <body>
-
    
 
 <div class="container"> <!-- 包裹内容的容器 -->
@@ -148,7 +131,7 @@
  </p>
 
  <p>
-    And the sounds. My God, the sounds. Ordinarily, I’m a pretty quiet, keep-to-myself kinda <span class="tooltip">fella<span class="tooltiptext">"Fella" 是 "fellow" 的口语形式，指的是男人或家伙，“让我一个人呆着吧”</span></span>
+    And the sounds. My God, the sounds. Ordinarily, I’m a pretty quiet, keep-to-myself kinda <span class="tooltip">fella<span class="tooltiptext">"Fella" 是 "fellow" 的口语形式，指的是男人或家伙，<br>“让我一个人呆着吧”</span></span>
     But on this night, I was screaming at the top of my lungs. 
     Some nights, when the wind is right and the cars are all parked up for the night, you can hear the horriﬁc sounds of coyotes ripping apart something that is <span class="tooltip">howling<span class="tooltiptext">嚎叫</span></span> in the Hollywood Hills. 
     At ﬁrst it sounds like children laughing way, way off in the distance, until you realize it’s not that—it’s the foothills of death. But the worst part, of course, is when the howling stops, because you know whatever has been attacked is now dead. This is hell.
