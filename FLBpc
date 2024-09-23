@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Friends,lovers and the big terrible thing|前言</title>
+<link rel="icon"
+href="https://p6.itc.cn/q_70/images03/20210301/ea0756f7b0184ba1bb8d5072e0781c67.png" sizes="16x16">
+<style>
+  :root {
+    --black: #000;
+    --white: #fff;
+    --gray: #666;
+    --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-secondary: 'Times New Roman', serif;
+  }
+
+  body {
+    font-family: var(--font-primary);
+    color: var(--gray);
+    background: var(--white);
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    font-family: var(--font-secondary);
+    color: var(--black);
+    margin: 20px 0; /* 添加上下边距 */
+  }
+
+  p {
+    font-size: 17px;
+    text-align: justify;
+    line-height: 1.9;
+    letter-spacing: 1px;
+    margin-bottom: 20px; /* 添加底部边距 */
+    padding: 0 20px; /* 添加左右填充 */
+  }
+
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: help;
+    border-bottom: 1px dashed var(--black);
+  }
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    background-color: var(--black);
+    color: var(--white);
+    text-align: left;
+    padding: 10px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 1.9;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  /* 添加整个页面的边框留白 */
+  .container {
+    width: 80%;
+    margin: auto;
+    padding:30px;
+  }
+
+  .icon-image {
+    width: 24px;  /* 根据需要调整图标大小 */
+    height: 24px;
+  }
+</style>
+</head>
+<body>
+   
+
+<div class="container"> <!-- 包裹内容的容器 -->
+  <h1>Prologue </h1>
+</head>
+<body>
+
+    
+
+<p>
+    Hi, my name is Matthew, although you may know me by another name. My friends call me Matty.
+</p>
+<p>And I should be dead.</p>
+
+
+<p>If you like, you can consider what you’re about to read to 
+    be a message from  <span class="tooltip">the beyond<span class="tooltiptext">the beyond来世</span></span>, my beyond.
+
+</p>
+
+
+ <p>
+    It’s Day Seven of the <strong>Pain</strong>. 
+    And by <strong>Pain</strong>, I don’t mean a 
+    <span class="tooltip">stubbed toe<span class="tooltiptext">脚趾受伤<br>sub存根；烟蒂；树桩；<br>断株踩熄；连根拔除<br>sub词源来此古英语树桩，可从“残余的部分”来延伸意义，先名词【烟蒂】【票根】，引申至动词【断根】【踩熄】</span></span>
+     or  <span class="tooltip">“The Whole Ten Yards.”<span class="tooltiptext">"The Whole Ten Yards" （《整十码》），Matthew出演的犯罪戏剧电影,是《这个杀手不眨眼》也叫《整九码》的续集；<br>The Whole Ten Yards中的9码并不指具体的长度，更像中文日常对话中“胡说八道”中的8，用来表达“全部”或“所有”的概念，通常描述详尽无遗或全力以赴的情况<br></span></span> 
+     I  <span class="tooltip">the capitalize<span class="tooltiptext">首字母大写；<br>来源于capital；<br>词源是拉丁语capitale，而capitale是形容词capitalis的名词形式，表示牲畜的“头数，古代谁牛多代表谁有钱；<br>由此cap词根表示“头”，词义外延至【首都】、【资本】、【大写字母】</span></span> <strong>Pain</strong> because this was the worst <strong>Pain</strong>
+      I’ve ever experienced—it was the <span class="tooltip">Platonic Ideal of Pain<span class="tooltiptext">柏拉图式的疼痛；<br>柏拉图对于痛苦有基于哲学上的复杂解释，这里就理解为肉体痛苦灵魂也痛苦</span></span>, 
+      the <span class="tooltip">exemplar<span class="tooltiptext">模范，标准，太疼了简直就是疼这个词的模范阐释；<br>exemplar与example同源；<br>ex-向外，-em拿出，即拿出来作为样本的</span></span>. 
+      I’ve heard people claim that the worst pain is childbirth: well, this was the worst pain imaginable, but without the joy of a newborn in my arms at the end of it.
+
+
+ </p>
+
+ <p>
+    And it may have been Day Seven of Pain, but it was also Day Ten of No Movement. 
+    <span class="tooltip">If you catch my drift. <span class="tooltiptext">如果你明白我的意思</span></span>
+    I hadn’t taken a shit in ten days —there, there’s the drift. Something was wrong, very wrong. 
+    This was not a dull, <span class="tooltip">throbbing pain<span class="tooltiptext">一跳一跳的痛</span></span>, like a headache;
+    it wasn’t even a <span class="tooltip">piercing<span class="tooltiptext">尖锐的<br>Pierce刺入</span></span>, stabbing pain, like the <span class="tooltip">pancreatitis<span class="tooltiptext">胰腺炎</span></span> I’d had when I was thirty. 
+    This was a different kind of Pain. Like my body was going to burst. 
+    Like my insides were trying to force their way out. This was the <span class="tooltip">no fucking around<span class="tooltiptext">不是他妈的闹着玩的</span></span> kind of Pain.
+ </p>
+
+ <p>
+    And the sounds. My God, the sounds. Ordinarily, I’m a pretty quiet, keep-to-myself kinda <span class="tooltip">fella<span class="tooltiptext">"Fella" 是 "fellow" 的口语形式，指的是男人或家伙，<br>“让我一个人呆着吧”</span></span>
+    But on this night, I was screaming at the top of my lungs. 
+    Some nights, when the wind is right and the cars are all parked up for the night, you can hear the horriﬁc sounds of coyotes ripping apart something that is <span class="tooltip">howling<span class="tooltiptext">嚎叫</span></span> in the Hollywood Hills. 
+    At ﬁrst it sounds like children laughing way, way off in the distance, until you realize it’s not that—it’s the foothills of death. But the worst part, of course, is when the howling stops, because you know whatever has been attacked is now dead. This is hell.
+ </p>
+
+<p>And yes, there is a hell. Don’t let anyone tell you different. I’ve been there; it exists; end of discussion.</p> 
+
+<p>
+    On this night the animal was me. I was still screaming, <span class="tooltip">fighting tooth and nail<span class="tooltiptext">拼尽全力，猛烈作战</span></span> for survival. Silence meant the end. Little did I know how close I was to the end.<br>
+    
+</p>
+<p>
+    At the time, I was living in a <span class="tooltip">sober living house<span class="tooltiptext">戒毒所</span></span> in Southern California. This was no surprise—I have lived half my life in one form or another of treatment center or <span class="tooltip">sober living house<span class="tooltiptext">戒毒所</span></span>. Which is fine when you are twenty-four years old, less fine when you are forty-two years old. Now I was forty-nine, still struggling to get this <strong>monkey</strong> off my back.
+  </p>
+  
+  <p>
+    By this point, I knew more about drug addiction and alcoholism than any of the coaches and most of the doctors I encountered at these facilities. Unfortunately, 
+    such self-knowledge <span class="tooltip">avails<span class="tooltiptext">v.有益；<br>前缀a-同ad-, 去，往. 词根val, 力量，词源同value, valiant. 指有益的，有力量的</span></span> you nothing. 
+    If the golden ticket to <span class="tooltip">sobriety<span class="tooltiptext">sober名词形式；<br>sober.adj&v清醒</span></span> involved hard work and learned information, this beast would be nothing but a faint unpleasant memory. To simply stay alive, I had turned myself into a professional patient. Let’s not sugarcoat it. At forty-nine, I was still afraid to be alone. Left alone, my crazy brain (crazy only in this area by the way) would find some excuse to do the unthinkable: drink and drugs. In the face of decades of my life having been ruined by doing this, I’m terrified of doing it again. I have no fear of talking in front of twenty thousand people, but put me alone on my couch in front of a TV for the night and I get scared. And that fear is of my own mind; fear of my own thoughts; fear that my mind will urge me to turn to drugs, as it has so many times before. My mind is out to kill me, and I know it. I am constantly filled with a lurking loneliness, a yearning, clinging to the notion that something outside of me will fix me. But I had had all that the outside had to offer!
+  </p>
+  
+  <p>
+    Julia Roberts is my girlfriend. It doesn’t matter, you have to drink. I just bought my dream house—it looks out across the whole city!
+  </p>
+  
+  <p>
+    Can’t enjoy that without a drug dealer. (This sentence is just an example and does not reflect reality.)
+  </p>
+  </p>
+  
+  
+</body>
+</html>
